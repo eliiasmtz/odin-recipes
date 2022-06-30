@@ -1,1 +1,1 @@
-# odin-recipes
+# En este programa pondremos a prueba todo lo aprendido en html, lo que incluye manejo de indices, listas, vinculos e imagenes. 
